@@ -1,0 +1,20 @@
+{
+  "name": "ffaiz-adventure-game",
+  "version": "1.0.0",
+  "description": "This is a Adventure game in which you play the match with opponent player in which you have three options 1. Attack 2. Increase Health 3. Run , this is mind blowing game i suggest you please run this game and little enjoy.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
